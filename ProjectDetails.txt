@@ -18,7 +18,7 @@ CREATE ANY FOLDER FIRST
 
 11) enter below cammand to insert manager details
 
-INSERT INTO users(name,email,phone,password,role,currentStatus) VALUES("Vaibhav","vaibhav@gmail","9860381291","$2a$04$6gEuoQpnrbGYXyJUU80A2OH5GW96NbB88SfSS9G0qnK7kzWczwb4G","manager", "Enabled"); 
+INSERT INTO users(name,email,phone,password,role,currentStatus) VALUES("Vaibhav","vaibhav@gmail.com","9860381291","$2a$04$6gEuoQpnrbGYXyJUU80A2OH5GW96NbB88SfSS9G0qnK7kzWczwb4G","manager", "Enabled"); 
 
 12) http://localhost:3000/  enter in browser
 
